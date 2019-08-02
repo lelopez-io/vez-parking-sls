@@ -4,8 +4,8 @@
       "type": "eventHubTrigger",
       "name": "IoTHubMessages",
       "direction": "in",
-      "eventHubName": "samples-workitems",
-      "connection": "",
+      "eventHubName": "iothub-ehub-openlandma-1891759-1e6688941e",
+      "connection": "EventHub",
       "cardinality": "many",
       "consumerGroup": "$Default"
     }
